@@ -33,7 +33,7 @@ To run this program, you can use Remix, an online Solidity IDE. Follow these ste
 - Select the ErrorHandling contract from the dropdown menu.
 - Click on the "Deploy" button.
 7. Interact with the contract by calling the various functions (Require, Assert, and Revert) through the deployed contract interface.
-...
+
 ## Project By
 Anshuman Roshan
 
