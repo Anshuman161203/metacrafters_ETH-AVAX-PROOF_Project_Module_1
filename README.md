@@ -23,8 +23,8 @@ To run this program, you can use Remix, an online Solidity IDE. Follow these ste
 
 1. Go to the [Remix website](https://remix.ethereum.org/).
 2. Create a new file by clicking on the "+" icon in the left-hand sidebar.
-3. Save the file with a `.sol` extension (e.g., `ErrorHandling.sol`).
-4. Copy and paste the following Solidity code into the file
+3. Save the file with a `.sol` extension (e.g., `Functions and Errors.sol`).
+4. Copy and paste the following Solidity code into the file --> (https://github.com/Anshuman161203/metacrafters_ETH-AVAX-PROOF_Project_Module_1/blob/main/Functions%20and%20Errors.sol)
 5. Click on the "Solidity Compiler" tab in the left-hand sidebar.
 - Ensure the "Compiler" option is set to "0.8.4" (or another compatible version).
 - Click on the "Compile Functions and Errors.sol" button.
