@@ -24,7 +24,15 @@ To run this program, you can use Remix, an online Solidity IDE. Follow these ste
 1. Go to the [Remix website](https://remix.ethereum.org/).
 2. Create a new file by clicking on the "+" icon in the left-hand sidebar.
 3. Save the file with a `.sol` extension (e.g., `ErrorHandling.sol`).
-4. Copy and paste the following Solidity code into the file --> Functions and Errors.sol
+4. Copy and paste the following Solidity code into the file
+5. Click on the "Solidity Compiler" tab in the left-hand sidebar.
+- Ensure the "Compiler" option is set to "0.8.4" (or another compatible version).
+- Click on the "Compile Functions and Errors.sol" button.
+6.Deploy the contract:
+- Click on the "Deploy & Run Transactions" tab in the left-hand sidebar.
+- Select the ErrorHandling contract from the dropdown menu.
+- Click on the "Deploy" button.
+7. Interact with the contract by calling the various functions (Require, Assert, and Revert) through the deployed contract interface.
 ...
 ## Project By
 Anshuman Roshan
