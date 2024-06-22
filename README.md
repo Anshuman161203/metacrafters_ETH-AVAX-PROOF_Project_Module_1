@@ -24,7 +24,7 @@ To run this program, you can use Remix, an online Solidity IDE. Follow these ste
 1. Go to the [Remix website](https://remix.ethereum.org/).
 2. Create a new file by clicking on the "+" icon in the left-hand sidebar.
 3. Save the file with a `.sol` extension (e.g., `ErrorHandling.sol`).
-4. Copy and paste the following Solidity code into the file --> FileLink
+4. Copy and paste the following Solidity code into the file --> Functions and Errors.sol
 ...
 ## Project By
 Anshuman Roshan
