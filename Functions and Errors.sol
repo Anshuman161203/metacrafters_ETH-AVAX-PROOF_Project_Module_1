@@ -15,7 +15,7 @@ contract error{
         count++;
         assert(msg.sender==owner);
     }
-    function Rivert()   public {
+    function Revert()   public {
         count++;
         if(msg.sender!=owner){
             revert("Requires Owner");
