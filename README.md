@@ -30,7 +30,7 @@ To run this program, you can use Remix, an online Solidity IDE. Follow these ste
 - Click on the "Compile Functions and Errors.sol" button.
 6. Deploy the contract:
 - Click on the "Deploy & Run Transactions" tab in the left-hand sidebar.
-- Select the ErrorHandling contract from the dropdown menu.
+- Select the Functions and Errors contract from the dropdown menu.
 - Click on the "Deploy" button.
 7. Interact with the contract by calling the various functions (Require, Assert, and Revert) through the deployed contract interface.
 
